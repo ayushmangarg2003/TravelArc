@@ -69,6 +69,6 @@ h2{
     .image img , .image2 img{
         height: 350px;
         object-fit: cover;
-        object-position: calc(-50%);
+        object-position: center;
     }
 }
