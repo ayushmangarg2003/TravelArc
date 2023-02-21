@@ -5,3 +5,5 @@ https://travel-arc.vercel.app/
 
 ## Screenshot of Website
 ![TravelArc](https://user-images.githubusercontent.com/105537793/212305769-107bd992-09da-4c7c-a365-ce25635c4c85.png)
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=react,react,61DAFB;css3,css3,1572B6;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=react,react,61DAFB;css3,css3,1572B6;)
