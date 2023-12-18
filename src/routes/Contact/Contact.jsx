@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../../components/Navbar/Navbar'
 import Hero from '../../components/Hero/Hero'
-import ContactImg from '../../assets/4.jpg'
+import ContactImg from '../../assets/4.webp'
 import Footer from '../../components/Footer/Footer'
 import ContactForm from '../../components/ContactForm/ContactForm'
 

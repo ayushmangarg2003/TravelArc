@@ -1,9 +1,9 @@
 import React from 'react'
 import './Trip.css'
 import TripData from './TripData'
-import Assam from "../../assets/Assam.jpg"
-import Varanasi from "../../assets/Varanasi.jpg"
-import Srinagar from "../../assets/Srinagar.jpg"
+import Assam from "../../assets/Assam.webp"
+import Varanasi from "../../assets/Varanasi.webp"
+import Srinagar from "../../assets/Srinagar.webp"
 
 const Trip = () => {
   return (

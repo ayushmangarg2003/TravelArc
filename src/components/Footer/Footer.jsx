@@ -12,10 +12,10 @@ const Footer = () => {
           <p>Choose Your Favourite Destination</p>
         </div>
         <div className="upper-right">
-          <i class="fa-brands fa-twitter"></i>
-          <i class="fa-brands fa-linkedin"></i>
-          <i class="fa-brands fa-instagram"></i>
-          <i class="fa-brands fa-facebook"></i>
+          <i className="fa-brands fa-twitter"></i>
+          <i className="fa-brands fa-linkedin"></i>
+          <i className="fa-brands fa-instagram"></i>
+          <i className="fa-brands fa-facebook"></i>
         </div>
       </div>
       <div className="lower">

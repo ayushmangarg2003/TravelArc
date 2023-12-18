@@ -1,9 +1,9 @@
 import React from 'react'
 import './Destinations.css'
-import som1 from '../../assets/Somnath1.jpg'
-import som2 from '../../assets/Somnath2.jpg'
-import tm1 from '../../assets/tm1.jpg'
-import tm2 from '../../assets/tm2.jpg'
+import som1 from '../../assets/Somnath1.webp'
+import som2 from '../../assets/Somnath2.webp'
+import tm1 from '../../assets/tm1.webp'
+import tm2 from '../../assets/tm2.webp'
 
 const Destination = () => {
   return (
